@@ -26,18 +26,27 @@
 - [絵文字コピペできるそうじゃ](https://emojipedia.org/) 🤐
 
 ##### javascript のコメント形式
+javadoc 系ですかね。ちょっと説明文読み取るの難しい。
+
 - [JSDoc](https://jsdoc.app/)
 
 
 
 ##### コーディング文法関連
-###### javscript と DOM 周り
+###### javscript / DOM
+
 - [Mozilla日本語](https://developer.mozilla.org/ja/docs/Web/API)
+- [typescript](https://www.typescriptlang.org/docs/handbook/dom-manipulation.html)
+
 
 ###### ブラウザ拡張
+
 - [ChromeExtnsions V3](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-migration/)
 
+
 ##### 便利系
-###### 正規表現のフォーマットチェック用
+###### 正規表現
+書式があってるかどうか確認するのに重宝。
+
 - [regex101.com](https://regex101.com/)
 
