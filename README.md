@@ -37,7 +37,7 @@ javadoc 系ですかね。ちょっと説明文読み取るの難しい。
 
 - [Mozilla日本語](https://developer.mozilla.org/ja/docs/Web/API)
 - [typescript](https://www.typescriptlang.org/docs/handbook/dom-manipulation.html)
-
+- [chrome-extension export / import](https://medium.com/@otiai10/how-to-use-es6-import-with-chrome-extension-bd5217b9c978)
 
 ###### ブラウザ拡張
 
