@@ -1,22 +1,17 @@
-# javascript/typescript 実験場 (update 2022/03/18)
+# javascript/typescript 実験場 (update 2022/08/27)
 
-暖かい日が増えてきました。
+うん。気が付いたら夏駆け抜けてたみたいやで。
+三月末ぐらいからタイムリープしてきました。
 
-「typescript で EdgeExtensions でいろいろやってみる」試行錯誤継続中。
-いろいろと目をつぶればそこそこ実用ぐらいの動作にはなってきました。
-2か月半 まあまあ理解は進んだのかな？
+「typescript で EdgeExtensions でいろいろやってみる」中断。
+いろいろと目をつぶればそこそこ実用ぐらいの動作にはなってきました
 
-判らないことはまだまだたくさん。
-暑くなる前に判ることを増やしておきたい。
+「typescript で javascript 系統の技術触ってみる」 開始しました。
+とりあえず WebGL 関連 のチュートリアルに着手。先は長そうだ。
+
 
 (・ω・)(-ω-)(・ω・)(-ω-)
 
-------------------------
-> ここは実験場である。javascript で右往左往しながら頑張ってみようとしている気配である。
-> そして今の時期はとても寒いので、毎日毎日ガタガタ震えながらキーボードカチカチやってます。
->  
-> (/・ω・)/(/・ω・)/(/・ω・)/ 
-> 
 ------------------------
 
 #### いまなにしてるメモ
@@ -30,6 +25,10 @@
 ------------------------
 
 #### :memo: 調べもの 
+
+##### typescript 環境設定関連
+- [TSConfig リファレンス](https://www.typescriptlang.org/tsconfig)
+
 
 ##### 書式関連
  マークダウン文書の書式が判らんので難儀してる
@@ -50,6 +49,12 @@ javadoc 系ですかね。ちょっと説明文読み取るの難しい。
 - [Mozilla日本語](https://developer.mozilla.org/ja/docs/Web/API)
 - [typescript](https://www.typescriptlang.org/docs/handbook/dom-manipulation.html)
 - [chrome-extension export / import](https://medium.com/@otiai10/how-to-use-es6-import-with-chrome-extension-bd5217b9c978)
+
+###### WebGL
+
+- [WebGL チュートリアル](https://developer.mozilla.org/ja/docs/Web/API/WebGL_API/Tutorial)
+- [WebGL gl-matrix 読み込み関連](https://dens.website/tutorials/webgl/gl-matrix)
+
 
 ###### ブラウザ拡張
 
